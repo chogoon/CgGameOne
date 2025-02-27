@@ -1,0 +1,2 @@
+# CgGameOne
+Golang base
